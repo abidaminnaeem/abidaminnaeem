@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-1a1a2e?style=for-the-badge&logo=safari&logoColor=white)](https://abidaminnaeem.github.io)
+[![Website](https://img.shields.io/badge/Portfolio-1a1a2e?style=for-the-badge&logo=safari&logoColor=white)](https://abidaminnaeem.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abidaminnaeem)
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?hl=en&user=Tj9QLmoAAAAJ)
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Abid-Amin-Naeem)
