@@ -34,7 +34,6 @@
 Scientific Machine Learning      •    Mathematical Modeling & Simulation
 Numerical Methods for PDEs       •    Computational Fluid Dynamics
 Predictive Digital Twins         •    Uncertainty Quantification
-Parameter Estimation             •    Operator Learning (DeepONet)
 ```
 
 ---
@@ -110,30 +109,6 @@ Parameter Estimation             •    Operator Learning (DeepONet)
 | 2024 | Efficient Numerical Approaches for Nonlinear Chromatography Models | APS March Meeting, Minneapolis MN |
 | 2023 | Finite Volume Schemes in Multi-Component Gradient Elution Chromatography | APS DFD, Washington DC |
 | 2023 | Optimizing Gradient Elution Chromatography: A Finite Volume Approach | SEARCDE 2023, Tallahassee FL |
-
----
-
-## 🏆 Grants, Fellowships & Distinctions
-
-**Fellowships**
-
-- 🎓 **Graduate Research Fellowship** — University of Tennessee, Knoxville ($382,000) · 2024–2028
-- 🎓 **Graduate Student Support Plan** — NC State University ($108,000) · 2022–2024
-- 🇫🇷 **Talent's Grant E2S** — University of Pau, France (€12,000) · 2021
-- 🇮🇹 **Postgraduate Diploma Fellowship** — Abdus Salam ICTP, Italy (€5,400) · 2020
-
-**Competitive Travel Awards**
-
-- ✈️ APS 77th Annual Meeting DFD — $950 · 2024
-- ✈️ Spectra SSMC 2024, OSU — $1,100 · 2024
-- ✈️ Summer School, Brown University — $1,150 · 2024
-- ✈️ Two APS Conferences via GSA-NCSU — $1,700 · 2023
-- ✈️ SEARCDE-2023, Florida A&M — $1,300 · 2023
-
-**Distinctions**
-
-- 🥉 Bronze Medal — MS Mathematics, COMSATS University (2021)
-- 🥉 Bronze Medal — BS Mathematics, Bahauddin Zakariya University (2018)
 
 ---
 
