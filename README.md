@@ -21,8 +21,8 @@
 
 ## 👨‍💻 About Me
 
-🎓 **PhD Student** in Aerospace & Mechanical Engineering with Computational Science and Engineering at **University of Tennessee, Knoxville.**  
-🎓 **MS** in Applied Mathematics with Computational Science and Engineering from **North Carolina State University, Raleigh.**   
+🎓 **PhD Student** in Aerospace & Mechanical Engineering with Computational Science & Engineering at **University of Tennessee, Knoxville.**  
+🎓 **MS** in Applied Mathematics with Computational Science & Engineering from **North Carolina State University, Raleigh.**   
 🔬 Specializing in **Scientific Machine Learning · Digital Twins · Computational Fluid Dynamics · Uncertainty Quantification**  
 📄 **25+ publications** in top journals including Propulsion & Power Research, Arabian Journal for Science & Engineering, Journal of Applied Fluid Mechanics, and arXiv.
 
