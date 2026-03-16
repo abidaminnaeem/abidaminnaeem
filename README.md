@@ -23,7 +23,6 @@
 🧮 **MS** in Applied & Computational Mathematics — North Carolina State University  
 🔬 Specializing in **Scientific Machine Learning · Digital Twins · Computational Fluid Dynamics · Uncertainty Quantification**  
 📄 **25+ publications** in top journals including Propulsion & Power Research, Arabian Journal for Science & Engineering, Journal of Applied Fluid Mechanics, and arXiv  
-🏅 **Bronze Medalist** — MS Mathematics, COMSATS University Islamabad  
 🌍 Bridging the gap between advanced mathematics and real-world engineering systems
 
 ---
