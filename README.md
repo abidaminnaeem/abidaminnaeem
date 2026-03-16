@@ -19,7 +19,7 @@
 
 ---
 
-## About Me
+## 👨‍💻 About Me
 
 **PhD Student** in Aerospace & Mechanical Engineering with Computational Science and Engineering at **University of Tennessee, Knoxville.**  
 **MS** in Applied Mathematics with Computational Science and Engineering from **North Carolina State University, Raleigh.**   
